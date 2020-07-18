@@ -1,0 +1,80 @@
+ .cadd p{
+      color: #767676;
+      line-height: 2.7;
+      font-size: 15px;
+ }
+
+/**Dashboard Page**/
+.adsdes img{
+    width: 100%;
+    padding: 10px;
+}
+.adsdes a{
+   width: 100%;
+    line-height: 5;
+    font-size: 18px!Important;
+    text-align: center;
+}
+.bottom-table a {
+    color: #01f403;
+    font-size: 15px;
+    font-weight: 600;
+ }
+.bottom-table p {
+    color: #030303;
+    margin: 0 0 10px;
+    font-size: 16px;
+}
+ 
+ .label:after {
+       content: "";
+    position: absolute;
+    height: 3px;
+    background: #01f403;
+    width: 27px;
+    left: 17px;
+    margin-top: 39px;
+ }
+ .label {
+    color: #767676;
+    padding: 0;
+    font-size: 17px;}
+ .bg-w {
+    margin: 13px auto;}
+ #maleprogress ,#femaleprogress {
+      margin: auto;
+    width: 80px;
+    height: auto;
+    position: relative;
+}
+ .small-box h3 {
+    text-align: left;
+    color: #5a5a5a;
+    font-size: 22px;}
+    .small-box p {
+    text-align: left;
+    color: #5a5a5a;
+        font-size: 21px;
+    }
+ .ion{
+         color: #01f403;
+ }
+ .bg-aqua , .bg-green{
+         height: auto;
+         border-radius: 3px;
+    box-shadow: 0 2px 8px 0 rgba(180, 180, 180, 0.16);
+    background-color: #f7f8fa!important;
+ }
+ .cadd p{
+      color: #767676;
+ }
+.chart-container {
+ 
+  margin: 0 auto;
+}
+
+.pie-chart-container,
+.doughnut-chart-container {
+ 
+  float: left;
+}

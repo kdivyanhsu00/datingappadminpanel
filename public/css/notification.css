@@ -1,0 +1,66 @@
+body, html {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-img {
+ background: url('public/img/d.png') #eaeaea;
+    border-radius: 10px;
+    box-shadow: 0 3px 5px 0 rgba(149, 166, 181, 0.25);
+    padding: 25px;
+    background-blend-mode: multiply;
+}
+
+/* Add styles to the form container */
+.container {
+ 	    max-width: 620.2px;
+    background: #FFFFFF;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+
+}
+
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  background: #01f403
+}
+	.brand_logo_container {
+		
+			height: 180px;
+			width: 200px;
+			top: 10px;
+		background: #01f403
+			padding: 10px;
+			text-align: center;
+			
+		}
+.btn:hover {
+  opacity: 1;
+}
